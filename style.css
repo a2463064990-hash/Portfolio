@@ -162,5 +162,6 @@ section h2 {
   border-radius: 8px;
   margin-bottom: 12px;
   object-fit: cover;
-  max-height: 160px;
+  max-height: 120px;
 }
+
